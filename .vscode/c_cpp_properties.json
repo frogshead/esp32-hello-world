@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/mikko/esp/esp-idf/components/",
+                "/Users/mikko/esp/esp-idf/components/freertos/include",
+                "/Users/mikko/esp/esp-idf/components/esp32/include",
+                "/Users/mikko/esp/esp-idf/components/spi_flash/include",
+                "esp-idf/components/newlib/include/"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "/Users/mikko/esp/esp-idf/components/"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ]
+        }
+    ],
+    "version": 3
+}
